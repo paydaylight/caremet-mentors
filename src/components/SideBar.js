@@ -2,9 +2,11 @@ import React from 'react'
 
 class SideBar extends React.Component {
     render() {
-        <div>
+        return(
+            <div>
 
-        </div>
+            </div>
+        )
     }
 }
 
